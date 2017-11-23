@@ -1,7 +1,7 @@
 Es gibt folgende Matrix-Räume:
 - FOSS-AG Hauptkanal (öffentlich)
   - Es gibt einen Admin
-  - Jede aktives Mitglied kann Moderator-Rechte erhalten
+  - Jedes aktive Mitglied kann Moderator-Rechte erhalten
   - Themen:
     - FOSS-AG Aktivitäten
     - FOSS-Themen
