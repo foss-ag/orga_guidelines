@@ -10,8 +10,8 @@ Es gibt folgende Matrix-Räume:
   - Es gibt einen Admin
   - Themen:
     - Absprache von Terminfindungen/Raumorganisation
-    - Vorstellung potentieller neuer aktiver Personen
-      - Möglichkeit der Diskussion (Veto-Moratorium für den Rest des aktuellen Tages)
+    - Vorschlagen potentieller neuer aktiver Personen
+      - Ein Aufnahme-Moratorium für den aktuellen Tag bietet Möglichkeit der Diskussion über die Aufnahme
     - Diskussionen die persönliche Daten enthalten (z.B. Roh-Fotos von Events)
     - Keine allgemeinen Themen -> offener Kanal
 - Weitere Räume für Teams
