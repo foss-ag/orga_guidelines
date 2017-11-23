@@ -1,5 +1,5 @@
 - Struktur für GitHub (Draft):
-  - Siehe auch [Guidlines FOSS-AG](guidlines_foss-ag.md).
+  - Siehe auch [Guidlines FOSS-AG](guidelines_foss-ag.md).
   - *Alternative 1*: Es gibt einen Owner-Account der keine natürlichen Person direkt zugeordnet ist. 3 Personen die darauf Zugriff haben (oder mit geteilter 2FA).
   - *Alternative 2*: Es gib 3 Owner.
     - Owner halten sich an die Konventionen der Teams (z.B. Commits per PR)
