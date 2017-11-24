@@ -1,3 +1,5 @@
+# Guidelines Services
+
 - Struktur für GitHub (Draft):
   - Siehe auch [Guidelines FOSS-AG](guidelines_foss-ag.md).
   - *Alternative 1*: Es gibt einen Owner-Account der keine natürlichen Person direkt zugeordnet ist. 3 Personen die darauf Zugriff haben (oder mit geteilter 2FA).
@@ -5,6 +7,7 @@
     - Owner halten sich an die Konventionen der Teams (z.B. Commits per PR)
   - Aktive Personen sind Member.
     - Können Team-Relevante Repos nach eigenem Ermessen erstellen.
+
 - Namensschema für GitHub:
   - Festgelegt in Sitzung '2017-07-21 Sitzung Nr 46'.
   - `<kategorie>_<titel>-<der>-<veranstaltung>`
@@ -17,7 +20,7 @@
 - Auswahl der Git-Plattform
   - GitHub für normale und öffentliche Repos.
   - Gitea für interne und private Repos.
-  
+
 - NextCloud:
   - Jede aktive Person kann einen Account für FOSS-AG Dinge bekommen
   - Datenschutz muss gewahrt werden
