@@ -15,8 +15,8 @@
   - Nicht FOSS-AG relevante Dinge sollten nicht unterhalb der FOSS-AG Organisation erstellt werden.
 
 - Auswahl der Git-Plattform
-  - GitHub für normale und öffentliche Dinge.
-  - Gitea für interne Dinge.
+  - GitHub für normale und öffentliche Repos.
+  - Gitea für interne und private Repos.
   
 - NextCloud:
   - Jeder Aktive kann einen Account für FOSS-AG Dinge bekommen
