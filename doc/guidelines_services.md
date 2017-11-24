@@ -9,13 +9,15 @@
   - Festgelegt in Sitzung '2017-07-21 Sitzung Nr 46'.
   - `<kategorie>_<titel>-<der>-<veranstaltung>`
 
-
-- NextCloud:
-  - Jeder Aktive kann einen Account für FOSS-AG Dinge bekommen
-  - Datenschutz muss gewahrt werden
-
-
 - Unser eigenes Gitea
   - Jeder aktive kann einen Account bekommen.
   - Jeder kann nach eigenem Ermessen private und öffentliche Repositories erstellen.
   - Nicht FOSS-AG relevante Dinge sollten nicht unterhalb der FOSS-AG Organisation erstellt werden.
+
+- Auswahl der Git-Plattform
+  - GitHub für normale und öffentliche Dinge.
+  - Gitea für interne Dinge.
+  
+- NextCloud:
+  - Jeder Aktive kann einen Account für FOSS-AG Dinge bekommen
+  - Datenschutz muss gewahrt werden
