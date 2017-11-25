@@ -1,4 +1,7 @@
+# Guidelines Matrix
+
 Es gibt folgende Matrix-Räume:
+
 - FOSS-AG Hauptkanal (öffentlich)
   - Es gibt einen Admin
   - Jedes aktive Mitglied kann Moderator-Rechte erhalten
@@ -15,5 +18,5 @@ Es gibt folgende Matrix-Räume:
     - Keine allgemeinen Themen -> offener Kanal
 - Weitere Räume für Teams
 - Schema:
-  - Name: FOSS-AG \<Titel\>
-  - Logo: FOSS-AG Logo oder vom Grafik-Team abgenickt
+  - Name: `FOSS-AG <Titel>`
+  - Logo: FOSS-AG Logo oder vom Grafik-Team angenickt
