@@ -4,17 +4,17 @@ Es gibt folgende Matrix-Räume:
 
 - FOSS-AG Hauptkanal (öffentlich)
   - Es gibt einen Admin
-  - Jeder Aktive kann Moderator-Rechte erhalten
+  - Jedes aktive Mitglied kann Moderator-Rechte erhalten
   - Themen:
     - FOSS-AG Aktivitäten
     - FOSS-Themen
-    - Vorstellung von Teams, Events etc.
-- FOSS-AG Orga (nur Aktive-Mitglieder)
+    - Vorstellung von Teams, Events, etc.
+- FOSS-AG Orga (nur aktive Mitglieder)
   - Es gibt einen Admin
   - Themen:
     - Absprache von Terminfindungen/Raumorganisation
-    - Vorstellung potenzieller neuer Aktiver -> Möglichkeit der Diskussion (Veto-Möglichkeit für den aktuellen Tag)
-    - Diskusionnen die persönliche Daten enthalten (z.B. Roh-Fotos von Events)
+    - Vorschlagen potentieller neuer aktiver Mitglieder -> Aufnahme nach Abstimmung mit weiteren aktiven Mitgliedern
+    - Diskussionen die persönliche Daten enthalten (z.B. Roh-Fotos von Events)
     - Keine allgemeinen Themen -> offener Kanal
 - Weitere Räume für Teams
 - Schema:
