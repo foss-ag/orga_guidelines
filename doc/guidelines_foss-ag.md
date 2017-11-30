@@ -1,6 +1,6 @@
 # Guidelines FOSS-AG
 
-Es gibt folgende Rollen einer Personen:
+Es gibt folgende Rollen einer Person:
 
 - Mitglied/Besucher:
   - Jeder der möchte.
