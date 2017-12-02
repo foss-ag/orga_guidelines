@@ -7,7 +7,7 @@ Es gibt folgende Rollen einer Person:
   - Mitarbeit an allen Projekten (z.B. PRs auf GH, Beteiligung bei Teams etc.) ist erwünscht!
 - Aktives Mitglied:
   - Beteiligt oder Beteiligte sich in den letzten Monaten aktiv an min. einem Projekt und nimmt regelmäßig an Sitzungen teil.
-  - Ist Member in der GitHub-Org (kann also insbesondere neue Repos erzeugen).
+  - Ist Member in der GitHub-Organisation. (kann also insbesondere neue Repos erzeugen)
   - Bekommt Zugriff auf weitere Dienste der FOSS-AG.
   - Wird Mitgliedschaft im Orga-Chat angeboten.
 
