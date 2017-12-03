@@ -1,15 +1,14 @@
 # Guidelines Services
 
-- Struktur für GitHub (Draft):
+- Struktur für GitHub:
   - Siehe auch [Guidelines FOSS-AG](guidelines_foss-ag.md).
   - Es gibt 3 Owner.
     - Owner halten sich an die Konventionen der Teams (z.B. Commits per PR)
   - Aktive Personen sind Member.
     - Können Team-Relevante Repos nach eigenem Ermessen erstellen.
-
-- Namensschema für GitHub:
-  - Festgelegt in Sitzung '2017-07-21 Sitzung Nr 46'.
-  - `<kategorie>_<titel>-<der>-<veranstaltung>`
+  - Namensschema:
+    - Festgelegt in Sitzung '2017-07-21 Sitzung Nr 46'.
+    - `<kategorie>_<titel>-<der>-<veranstaltung>`
 
 - Unser eigenes Gitea
   - Jede aktive Person kann einen Account bekommen.
