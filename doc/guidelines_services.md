@@ -11,7 +11,7 @@
     - `<kategorie>_<titel>-<der>-<veranstaltung>`
 
 - Unser eigenes Gitea
-  - Jede aktive Person kann einen Account bekommen.
+  - Jede Person kann auf Anfrage einen Account bekommen. Aktive Mitglieder werden dort Member der FOSS-AG Organisation.
   - Jede Person kann nach eigenem Ermessen private und öffentliche Repositories erstellen.
   - Nicht FOSS-AG relevante Dinge sollten nicht unterhalb der FOSS-AG Organisation erstellt werden.
 
