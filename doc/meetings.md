@@ -1,15 +1,23 @@
-# Aufbau vom Protokoll einer FOSS-AG Sitzungen
+# Aufbau einer FOSS-AG Sitzung
 
 ## Allgemein
-  - Lockere Diskussionsatmosphäre rund um OpenSource und Projekte mit Nähe zur FOSS-Kultur
+  - Lockere Diskussionsatmosphäre rund um OpenSource und Projekte der FOSS-AG
   - Bei größeren Runden: Handzeichen nutzen!
-  - Vorgehen nach Thema
-  - Jede anwesende Person kann ein Themen anfügen
+  - Es wird ein geteiltes Dokument als Themenliste genutzt, welches allen Anwesenden lesen und bearbeiten können
+  - Während der Sitzung entsteht daraus das Protokoll
   - Hinter jedem Thema wird ein Kürzel des Themenvortragenden angefügt
 
 ## Protokoll: Aufteilung in drei Abschnitte
-  - Orga-Themen (Organisatorische Dinge der FOSS-AG und ihrer Projekte)
-  - Stammtisch (Vorstellung neuer und cooler Projekte/-ideen zu FOSS-Themen. Bevorzugt kleine Vorträge evtl. mit Folien. Alternativ, wenn man sich selbst damit nicht beschätigt hat, nur eine kurze Vorstellung mit Verweis auf eine Hackgruppe.)
-  - Hackgruppen (Gemeinsames beschäftigen mit bestehenden/neuen Projekten (z.B. die im Stammtisch vorgestellt wurden) in kleineren Gruppen)
+  - Orga-Themen
+    - Organisatorische Dinge der FOSS-AG und ihrer Projekte
+  - Stammtisch
+    - Zunächst kurze Vorstellung von Projekten über die es anschließsenden Diskussionsgruppen gibt
+    - Themen mit AG-Bezug oder Vorschläge für neue Events der AG oder Diskussionen über Ausrichtung der AG
+    - Vorträge, Demos oder Weiterbildungen
+  - Diskussionsrunden
+    - Aufteilen in kleinere Gruppen (ggf. mehrere)
+    - Beschäftigen mit bestehenden/neuen Projekten
+    - Erkunden von FOSS-Projeken, News etc.
+    - Tech-Talk
 
 Protokoll-Archiv: https://fsinfo.cs.tu-dortmund.de/ags/foss-ag/protokoll
