@@ -14,7 +14,7 @@
     - Zunächst kurze Vorstellung von Projekten über die es anschließsenden Diskussionsgruppen gibt
     - Themen mit AG-Bezug oder Vorschläge für neue Events der AG oder Diskussionen über Ausrichtung der AG
     - Vorträge, Demos oder Weiterbildungen
-  - Diskussionsrunden
+  - Anschließend
     - Aufteilen in kleinere Gruppen (ggf. mehrere)
     - Beschäftigen mit bestehenden/neuen Projekten
     - Erkunden von FOSS-Projeken, News etc.
