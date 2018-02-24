@@ -11,10 +11,10 @@
   - Orga-Themen
     - Organisatorische Dinge bezüglich der FOSS-AG und ihrer Projekte
   - Stammtisch
-    - Zunächst kurze Vorstellung von Projekten, über die es anschließend Diskussionsgruppen gibt
+    - Kurze Vorstellung von Projekten, über die nach dem Plenum diskutiert werden kann
     - Themen mit AG-Bezug, Vorschläge für neue Events der AG oder Diskussionen über die Ausrichtung der AG
     - Vorträge, Demos oder Weiterbildungen
-  - Anschließend
+  - Nach dem Plenum
     - Aufteilen in kleinere Gruppen (ggf. in mehrere)
     - Beschäftigen mit bestehenden oder neuen Projekten
     - Erkunden von FOSS-Projekten, News etc.
