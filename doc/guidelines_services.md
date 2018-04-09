@@ -22,3 +22,4 @@
 - NextCloud:
   - Jede aktive Person kann einen Account für FOSS-AG Dinge bekommen
   - Datenschutz muss gewahrt werden
+  - es gibt einen öffentlichen [Kalender](https://cloud.foss-ag.de/index.php/apps/calendar/p/Rs4BXqPkfyxJa2QK/FOSS-AG).
