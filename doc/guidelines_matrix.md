@@ -9,7 +9,7 @@ Es gibt folgende Matrix-Räume:
     - FOSS-AG Aktivitäten
     - FOSS-Themen
     - Vorstellung von Teams, Events, etc.
-- FOSS-AG Orga (nur aktive Mitglieder)
+- FOSS-AG Orga (wenn es keine Einwände gibt, jeder der möchte)
   - Es gibt einen Admin
   - Themen:
     - Absprache von Terminfindungen/Raumorganisation
