@@ -2,24 +2,22 @@
 
 Es gibt folgende Rollen einer Person:
 
-- Mitglied/Besucher:
-  - Jeder der möchte.
+- **Mitglied**:
+  - Jeder der irgendwie mitmacht
   - Mitarbeit an allen Projekten (z.B. PRs auf GH, Beteiligung bei Teams etc.) ist erwünscht!
-- Aktives Mitglied:
-  - Beteiligt oder Beteiligte sich in den letzten Monaten aktiv an min. einem Projekt und nimmt regelmäßig an Sitzungen teil.
-  - Ist Member in der GitHub-Organisation. (kann also insbesondere neue Repos erzeugen)
-  - Bekommt Zugriff auf weitere Dienste der FOSS-AG.
-  - Wird Mitgliedschaft im Orga-Chat angeboten.
+- **Stimmberechtigt**:
+  - Jeder kann Stimmrecht beantragen. Es gibt ein Veto-Recht von existierenden Mitgliedern.
+  - Bei Abstimmungen welche die ganze FOSS-AG Betreffen, sollen nur Stimmberechtigte mit bestimmen.
 
-- Teams:
-  - Haben 2-n Mitglieder:
+- **Teams**:
+  - Haben 2-n **Mitglieder**:
     - Haben nur Read-Rechte auf Repos des Teams. -> PRs sind der Default.
-  - Haben 2-n Maintainer (sollten nicht zu viele werden):
+  - Haben 2-n **Maintainer** (sollten nicht zu viele werden):
     - Haben Admin-Rechte im GitHub-Team und allen Repos des Teams.
     - Sind also insbesondere fürs Mergen von PRs zuständig.
     - Dürfen aber Repo-Rechte beliebig setzen. -> Wir geben nichts vor.
     - Sind Admin im Team-Chat.
-  - Haben 1-n Ansprechpartner für Interessierte.
+  - Haben 1-n **Ansprechpartner für Interessierte**:
     - Müssen nicht Teilmenge der Maintainer sein.
     - Werden im Wiki aufgelistet.
     - Sollen die im Team üblichen Konventionen kennen.
