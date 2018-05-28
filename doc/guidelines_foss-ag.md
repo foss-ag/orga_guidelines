@@ -3,11 +3,11 @@
 Es gibt folgende Rollen einer Person:
 
 - **Mitglied**:
-  - Jeder der irgendwie mitmacht
+  - Jeder der mitmacht
   - Mitarbeit an allen Projekten (z.B. PRs auf GH, Beteiligung bei Teams etc.) ist erwünscht!
 - **Stimmberechtigt**:
   - Jeder kann Stimmrecht beantragen. Es gibt ein Veto-Recht von existierenden Mitgliedern.
-  - Bei Abstimmungen welche die ganze FOSS-AG Betreffen, sollen nur Stimmberechtigte mit bestimmen.
+  - Bei Abstimmungen welche die ganze FOSS-AG betreffen, sollen nur Stimmberechtigte mit bestimmen.
 
 - **Teams**:
   - Haben 2-n **Mitglieder**:
