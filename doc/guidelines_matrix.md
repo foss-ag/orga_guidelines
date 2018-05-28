@@ -12,16 +12,11 @@ Es gibt folgende Matrix-Räume:
 - FOSS-AG Organisation (öffentlich)
   - Es gibt einen Admin
   - Themen:
-	- Projektplanungen
-	- Terminplanungen
+    - Projektplanungen
+    - Terminplanungen
     - Raumorganisation
-	- Kaffeeorganisation
-	- Alles Organisatorische
-  - Jeder der möchte kann dort hinein
-- FOSS-AG Privat (invite only)
-    - Diskussionen die persönliche Daten enthalten (z.B. Roh-Fotos von Events)
-    - Nur nach Absprache mit Vetorecht unter Stimmberechtigten.
-    - Keine allgemeinen Themen -> offener Kanal
+    - Kaffeeorganisation
+    - Alles Organisatorische
 - Weitere Räume für Teams
 - Schema:
   - Name: `FOSS-AG <Titel>`
