@@ -4,7 +4,7 @@ Es gibt folgende Matrix-Räume:
 
 - FOSS-AG Hauptkanal (öffentlich)
   - Es gibt einen Admin
-  - Jedes aktive Mitglied kann Moderator-Rechte erhalten
+  - Jedes Mitglied kann auf Anfrage Moderator-Rechte erhalten mit Vetorecht unter Stimmberechtigten.
   - Themen:
     - FOSS-AG Aktivitäten
     - FOSS-Themen
