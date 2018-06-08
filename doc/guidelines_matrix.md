@@ -20,4 +20,4 @@ Es gibt folgende offizielle Matrix-Räume:
 - Weitere Räume für Teams
 - Schema:
   - Name: `FOSS-AG <Titel>`
-  - Logo: FOSS-AG Logo oder vom Grafik-Team angenickt
+  - Logo: FOSS-AG Logo oder vom Grafik-Team abgenickt
