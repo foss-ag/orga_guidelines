@@ -11,7 +11,7 @@
     - `<kategorie>_<titel>-<der>-<veranstaltung>`
 
 - Unser eigenes Gitea
-  - Jede Person kann auf Anfrage einen Account bekommen. Aktive Mitglieder werden dort Member der FOSS-AG Organisation.
+  - Jede Person kann auf Anfrage einen Account bekommen.
   - Jede Person kann nach eigenem Ermessen private und öffentliche Repositories erstellen.
   - Nicht FOSS-AG relevante Dinge sollten nicht unterhalb der FOSS-AG Organisation erstellt werden.
 
@@ -20,6 +20,6 @@
   - Gitea für interne und private Repos.
 
 - NextCloud:
-  - Jede aktive Person kann einen Account für FOSS-AG Dinge bekommen
-  - Datenschutz muss gewahrt werden
+  - Jeder kann einen Account anfragen.
+  - Datenschutz muss gewahrt werden.
   - Es gibt einen öffentlichen [Kalender](https://cloud.foss-ag.de/index.php/apps/calendar/p/Rs4BXqPkfyxJa2QK/FOSS-AG).

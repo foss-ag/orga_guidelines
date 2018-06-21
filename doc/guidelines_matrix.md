@@ -4,7 +4,7 @@ Es gibt folgende offizielle Matrix-Räume:
 
 - FOSS-AG Hauptkanal (öffentlich)
   - Es gibt einen Admin
-  - Jedes aktive Mitglied kann auf Anfrage Moderator-Rechte erhalten.
+  - Jeder kann auf Anfrage Moderator-Rechte erhalten.
   - Themen:
     - Allgemeine FOSS-AG Aktivitäten
     - FOSS-Themen
@@ -17,6 +17,9 @@ Es gibt folgende offizielle Matrix-Räume:
     - Raumorganisation
     - Kaffeeorganisation
     - Alles Organisatorische
+- FOSS-AG Privat
+  - Privater Chat für nicht-öffentliche Themen.
+  - Nur zum Wahren des Datenschutzes bei z.B. Fotos nutzen
 - Weitere Räume für Teams
 - Schema:
   - Name: `FOSS-AG <Titel>`
