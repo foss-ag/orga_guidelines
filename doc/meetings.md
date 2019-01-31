@@ -10,6 +10,7 @@
 ## Protokoll: Aufteilung in drei Abschnitte
   - Orga-Themen
     - Organisatorische Dinge bezüglich der FOSS-AG und ihrer Projekte
+    - Findet nur alle zwei Wochen statt
   - Stammtisch
     - Kurze Vorstellung von Projekten, über die nach dem Plenum diskutiert werden kann
     - Themen mit AG-Bezug, Vorschläge für neue Events der AG oder Diskussionen über die Ausrichtung der AG
