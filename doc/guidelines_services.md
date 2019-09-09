@@ -22,4 +22,4 @@
 - NextCloud:
   - Jeder kann einen Account anfragen.
   - Datenschutz muss gewahrt werden.
-  - Es gibt einen öffentlichen [Kalender](https://cloud.foss-ag.de/index.php/apps/calendar/p/Rs4BXqPkfyxJa2QK/FOSS-AG).
+  - Es gibt einen öffentlichen [Kalender](https://cloud.fachschaften.org/index.php/apps/calendar/p/CX66qJFsw6GR6KYy/FOSS-AG).
