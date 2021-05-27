@@ -10,5 +10,7 @@ Es muss an diveren Stellen der Termin angepasst werden:
 - Website
 - Kalender
 - Chatbeschreibung und als Nachricht im Chat
+- Veröffentlichung im Telegram-Channel
 - Veröffentlichung per Mail
 - Veröffentlichung per Twitter
+- Veröffentlichung per Mastodon
